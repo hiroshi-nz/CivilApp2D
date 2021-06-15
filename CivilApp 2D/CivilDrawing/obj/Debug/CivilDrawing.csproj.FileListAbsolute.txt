@@ -1,0 +1,18 @@
+c:\users\kite\documents\visual studio 2015\Projects\CivilDrawing\CivilDrawing\bin\Debug\CivilDrawing.exe.config
+c:\users\kite\documents\visual studio 2015\Projects\CivilDrawing\CivilDrawing\bin\Debug\CivilDrawing.exe
+c:\users\kite\documents\visual studio 2015\Projects\CivilDrawing\CivilDrawing\bin\Debug\CivilDrawing.pdb
+c:\users\kite\documents\visual studio 2015\Projects\CivilDrawing\CivilDrawing\obj\Debug\CivilDrawing.csprojResolveAssemblyReference.cache
+c:\users\kite\documents\visual studio 2015\Projects\CivilDrawing\CivilDrawing\obj\Debug\CivilDrawing.Form1.resources
+c:\users\kite\documents\visual studio 2015\Projects\CivilDrawing\CivilDrawing\obj\Debug\CivilDrawing.Properties.Resources.resources
+c:\users\kite\documents\visual studio 2015\Projects\CivilDrawing\CivilDrawing\obj\Debug\CivilDrawing.csproj.GenerateResource.Cache
+c:\users\kite\documents\visual studio 2015\Projects\CivilDrawing\CivilDrawing\obj\Debug\CivilDrawing.exe
+c:\users\kite\documents\visual studio 2015\Projects\CivilDrawing\CivilDrawing\obj\Debug\CivilDrawing.pdb
+C:\Users\Kite\Documents\Visual Studio 2015\Projects\2D Graphics\CivilDrawing\bin\Debug\CivilDrawing.exe.config
+C:\Users\Kite\Documents\Visual Studio 2015\Projects\2D Graphics\CivilDrawing\obj\Debug\CivilDrawing.exe
+C:\Users\Kite\Documents\Visual Studio 2015\Projects\2D Graphics\CivilDrawing\obj\Debug\CivilDrawing.pdb
+C:\Users\Kite\Documents\Visual Studio 2015\Projects\2D Graphics\CivilDrawing\bin\Debug\CivilDrawing.exe
+C:\Users\Kite\Documents\Visual Studio 2015\Projects\2D Graphics\CivilDrawing\bin\Debug\CivilDrawing.pdb
+C:\Users\Kite\Documents\Visual Studio 2015\Projects\2D Graphics\CivilDrawing\obj\Debug\CivilDrawing.csprojResolveAssemblyReference.cache
+C:\Users\Kite\Documents\Visual Studio 2015\Projects\2D Graphics\CivilDrawing\obj\Debug\CivilDrawing.Form1.resources
+C:\Users\Kite\Documents\Visual Studio 2015\Projects\2D Graphics\CivilDrawing\obj\Debug\CivilDrawing.Properties.Resources.resources
+C:\Users\Kite\Documents\Visual Studio 2015\Projects\2D Graphics\CivilDrawing\obj\Debug\CivilDrawing.csproj.GenerateResource.Cache
